@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm vordenken! 👋
 
-<!--
-**vordenken/vordenken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate DevOps engineer always eager to learn and explore new technologies. Below you'll find a bit more about me, my skills, and how to get in touch.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, Swift, Java
+- **Tools:** Git, Docker, Kubernetes, VS Code, Xcode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![vordenken's GitHub stats](https://github-readme-stats.vercel.app/api?username=vordenken&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- **Mastodon:** [@vordenken](https://fosstodon.org/@vordenken)
+
+## 💡 Interests
+- **DevOps:** Automation, CI/CD pipelines, infrastructure as code
+- **Homelab:** Building and maintaining personal servers for learning and experimentation
+- **3D Printing:** Designing and printing 3D models, exploring new materials and techniques
+
+## 💡 Projects & Contributions
+Here are some of my favorite projects and contributions:
+- [AutoPiP](https://github.com/vordenken/AutoPiP): Automatically enables Picture-in-Picture mode when switching tabs and apps (macOS 14+ Safari Extention)
+- [deye-microinverter-cloud-free](https://github.com/vordenken/deye-microinverter-cloud-free): Dockerized version/fork of the original deye-microinverter-cloud-free project.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
+
+---
