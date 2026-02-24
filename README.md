@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer always eager to l
 - **Tools:** Git, Docker, Kubernetes, VS Code, Xcode
 
 ## 📈 GitHub Stats
-![vordenken's GitHub stats](https://github-readme-stats.vercel.app/api?username=vordenken&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vordenken?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 📫 How to Reach Me
 - **Mastodon:** [@vordenken](https://fosstodon.org/@vordenken)
